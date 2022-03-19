@@ -84,6 +84,8 @@ section{
      color: #faa541;
 }
 
+
+
 .hero h1, .hero h2 {
     font-size: 63px;
     font-weight: 700;
@@ -98,7 +100,7 @@ section{
 }
 
 .banner {
-    margin: 55p 15px;
+    margin: 55px 15px;
     width: 100%;
     border-top: 1px solid #a0a0a0;
     border-bottom: 1px solid #a0a0a0;
@@ -147,10 +149,18 @@ section{
      color: #faa541;
  }
 
- .category-text > h3 {
+ .category-text h3 {
      font-size: 30px;
      font-weight: 700;
      line-height: 1;
+ }
+
+ .hero {
+     background-image: url('../img/hero.jpg');
+     height: 400px;
+     background-size: cover;
+     background-position: center center;
+     text-transform: uppercase;
  }
 
 
