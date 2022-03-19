@@ -71,5 +71,30 @@ section{
     background-size: cover;
     background-position: center center;
     text-transform: uppercase;
+
     
 }
+
+h1 .hero {
+    position: relative -30px;
+}
+
+h2 .hero {
+     color: #faa541;
+}
+
+h1 h2 {
+    font-size: 63px;
+    font-weight: 700;
+    line-height: 0.9;
+}
+
+p .hero {
+    letter-spacing: 2px;
+    font-weight: 700;
+    font-size: 21px;
+    margin: 0 0 10px 0;
+}
+
+
+
