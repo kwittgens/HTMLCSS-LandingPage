@@ -65,15 +65,7 @@ section{
 
 }
 
-.hero {
-    background-image: '../images/hero.jpg';
-    height: 400px;
-    background-size: cover;
-    background-position: center center;
-    text-transform: uppercase;
 
-    
-}
 
 .hero h1 {
     position: relative;
@@ -162,6 +154,11 @@ section{
      background-position: center center;
      text-transform: uppercase;
  }
+
+ 
+
+    
+
 
 
 
