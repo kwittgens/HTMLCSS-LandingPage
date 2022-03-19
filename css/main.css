@@ -64,3 +64,12 @@ section{
     color: #364147;
 
 }
+
+.hero {
+    background-image: "images/hero.jpg";
+    height: 400px;
+    background-size: cover;
+    background-position: center center;
+    text-transform: uppercase;
+    
+}
