@@ -307,14 +307,13 @@ section{
  }
 
  .search-button {
-     background-color: #a0a0a0;
-     color: #ffffff;
-     width: 100px;
-     height: 30px;
-     border: 0;
-     padding: 0;
-
- }
+    background-color: #a0a0a0;
+    width: 100px;
+    height: 30px;
+    color: #ffffff;
+    border: 0;
+    padding: 0;
+}
 
  .nav-list {
     width: 575px;
