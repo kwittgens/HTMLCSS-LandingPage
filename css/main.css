@@ -189,6 +189,17 @@ section{
 
 .logo { max-width: 100%; height: auto; }
 
+.search-box { width: 330px; height: 30px; padding: 6px 12px; border: 1px solid #a0a0a0; }
+.search-button {
+    background-color: #a0a0a0;
+    width: 100px;
+    height: 30px;
+    color: #ffffff;
+    border: 0;
+    padding: 0;
+}
+
+
 
  .lists {
      flex: 0 0 75%;
@@ -299,21 +310,7 @@ section{
      text-align: center;
  }
 
- .search-box {
-     width: 330px;
-     height: 30px;
-     padding: 6px 12px;
-     border: 1px solid #a0a0a0;
- }
-
- .search-button {
-    background-color: #a0a0a0;
-    width: 100px;
-    height: 30px;
-    color: #ffffff;
-    border: 0;
-    padding: 0;
-}
+ 
 
  .nav-list {
     width: 575px;
