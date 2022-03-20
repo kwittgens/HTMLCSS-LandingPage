@@ -236,19 +236,13 @@ section{
 
  }
 
- .newsletter link-header{
+ .newsletter .link-header { font-size: 12px; font-weight: 400; margin-bottom: 5px; }
+.newsletter .link-subheader {
+    font-style: italic;
     font-size: 12px;
-    font-weight: 400px;
-    margin-bottom: 5px;
-
- }
-
- .newsletter link-subheader {
-     font-style: italic;
-     size: 12px;
-     font-weight: 400;
-     margin-bottom: 15px;
- }
+    font-weight: 400;
+    margin-bottom: 15px;
+}
 
  .newsletter input {
      border: 1px solid #364147;
