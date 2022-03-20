@@ -67,29 +67,6 @@ section{
 
 
 
-.hero h1 {
-    position: relative;
-    left: -30px;
-}
-
-.hero h2 {
-     color: #faa541;
-}
-
-
-
-.hero h1, .hero h2 {
-    font-size: 63px;
-    font-weight: 700;
-    line-height: 0.9;
-}
-
-.hero p {
-    letter-spacing: 2px;
-    font-weight: 700;
-    font-size: 21px;
-    margin: 0 0 10px;
-}
 
 .banner {
     margin: 55px 15px;
@@ -155,6 +132,31 @@ section{
      text-transform: uppercase;
  }
 
+ .hero h1 {
+    position: relative;
+    left: -30px;
+}
+
+.hero h2 {
+     color: #faa541;
+}
+
+
+
+.hero h1, .hero h2 {
+    font-size: 63px;
+    font-weight: 700;
+    line-height: 0.9;
+}
+
+.hero p {
+    letter-spacing: 2px;
+    font-weight: 700;
+    font-size: 21px;
+    margin: 0 0 10px;
+}
+
+
  footer{
      display:flex;
      flex-wrap: wrap;
@@ -206,18 +208,14 @@ section{
     text-decoration: underline;
  }
 
- .social ul li {
-     display: inline-block;
- }
-
- .social ul li a {
-     display: block;
-     width: 23px;
-     height: 23 px; 
-     background-size: 23px 23px;
-     background-position: center;
- }
-
+ .social ul li { display: inline-block; }
+.social ul li a {
+    display: block;
+    width: 23px;
+    height: 23px;
+    background-size: 23px 23px;
+    background-position: center;
+}
  .twitter{
      background-image: url('../img/twitter.svg');
 
